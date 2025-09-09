@@ -42,17 +42,17 @@
 
 ## 🚀 Featured Projects  
 
+- **[Logistics Tracker & Alert System](https://github.com/maxphil058/logistics-tracker)**  
+  🔹 Shipment lifecycle management + automated email alerts with **98% success rate**.  
+  *Tech:* Next.js, Spring Boot, MongoDB, Docker
+
+- **[PitchPilot – Funnel Editor & Automation Platform](https://github.com/maxphil058/pitch-pilot)**  
+  🔹 End-to-end **funnel editor** with real-time preview, Stripe payments, and export features. Designed to help businesses build sales funnels faster with **40% reduced setup time**.  
+  *Tech:* Next.js 14 (App Router), Tailwind CSS, Stripe, Solace,   
+
 - **[AI-Powered Resume Generator](https://github.com/maxphil058/resume-ai)**  
   🔹 AI-driven app generating resumes with **85% higher ATS keyword match rates**.  
   *Tech:* React, Tailwind, Spring Boot, OpenAI, Docker  
-
-- **[Logistics Tracker & Alert System](https://github.com/maxphil058/logistics-tracker)**  
-  🔹 Shipment lifecycle management + automated email alerts with **98% success rate**.  
-  *Tech:* Next.js, Spring Boot, MongoDB  
-
-- **[Media Discovery Platform](https://github.com/maxphil058/media-discovery)**  
-  🔹 Streaming resolver with **25% boost in engagement**.  
-  *Tech:* React, Firebase, OMDb API  
 
 ---
 
@@ -69,6 +69,8 @@
 ## 📌 Top Repositories  
 
 <div width="100%" align="center">
-  <a href="https://github.com/maxphil058/logistics-tracker-api"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=maxphil058&repo=logistics-tracker-api&title_color=ffffff&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a>
-  <a href="https://github.com/maxphil058/resume-ai"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=maxphil058&repo=resume-ai&title_color=ffffff&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a>
+  <a href="https://github.com/maxphil058/logistics-tracker-api"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=maxphil058&repo=logistics-tracker-api&title_color=ffffff&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a>
+  <a href="https://github.com/maxphil058/pitch-pilot"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=maxphil058&repo=pitch-pilot&title_color=ffffff&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a>
+  <a href="https://github.com/maxphil058/resume-ai"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=maxphil058&repo=resume-ai&title_color=ffffff&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a>
 </div>  
+
