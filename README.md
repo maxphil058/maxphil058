@@ -1,89 +1,118 @@
-# Hi, I'm Phil Maxwell-Mgbudem 👋
+# Hi 👋, I'm Phil Maxwell-Mgbudem
 
-💻 **Software Developer | React Native • Laravel • Python • AI**
+### Software Developer • React Native • Laravel • Python • AI
 
-I'm a Computer Programming student in Ottawa building mobile and backend products, with professional software development experience on an AI team.
+I build mobile and backend products with a focus on **AI-powered features, reliable APIs, background processing, cloud infrastructure, and production debugging**.
 
-- 🌍 Based in **Ottawa, Canada**
-- 🧠 Interested in **AI-powered products, backend systems, mobile apps, and production engineering**
-- 🚀 Currently building **Servantlee**, a mobile sermon companion focused on helping people carry Sunday into their week
+- 📍 Based in **Ottawa, Canada**
+- 🚀 Currently building **Servantlee**, a mobile sermon companion
 - 💼 Completed an **8-month Software Developer co-op on Knak's AI Team**
+- 🧠 Interested in **AI systems, mobile apps, backend engineering, and system design**
 - ✉️ [philipmgbudem@gmail.com](mailto:philipmgbudem@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/philmaxwell-mgbudem)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/philmaxwell-mgbudem)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, PHP, TypeScript, JavaScript, Java, SQL, Bash
-- **Mobile & Frontend:** React Native, Expo, React, Next.js, Tailwind CSS
-- **Backend:** Laravel, Node.js/Express, Spring Boot
-- **AI:** LLM integrations, LangChain, LangGraph, Gemini, Claude, structured AI workflows
-- **Databases:** MySQL, PostgreSQL, MongoDB, Oracle
-- **Cloud & DevOps:** AWS (S3, EC2), Docker, GitHub Actions, Railway, Vercel, Linux
-- **Engineering:** REST APIs, background jobs/queues, authentication, testing, CI/CD, observability, production debugging
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,ts,js,java,mysql,bash" />
+</p>
+
+### Mobile & Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+**React Native • Expo • React • Next.js • Tailwind CSS**
+
+### Backend & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,spring" />
+</p>
+
+**Laravel • Node.js/Express • Spring Boot • LangChain • LangGraph • Gemini • Claude • AssemblyAI**
+
+### Cloud, Data & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,mysql,postgres,mongodb,linux" />
+</p>
+
+**AWS • Docker • GitHub Actions • Railway • Vercel • MySQL • PostgreSQL • MongoDB • Oracle**
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Featured Work
 
-### Servantlee
-A mobile Christian sermon companion built around the loop:
+### 🌿 Servantlee
+**Mobile sermon companion for helping people carry Sunday into their week.**
 
 **Hear → Capture → Understand → Apply → Reflect → Remember → Share**
 
-The app records sermons, uploads audio safely, generates timestamped transcripts and AI-powered recaps, detects Scripture references, and helps users turn one sermon takeaway into a weekly journey.
+- Records and safely uploads sermon audio
+- Generates timestamped transcripts and AI-powered recaps
+- Detects Scripture references with source timestamps
+- Supports sermon takeaways, weekly journeys, reflections, prayer tracking, and playback
 
 **Tech:** React Native, Expo, Laravel, MySQL, AWS S3, AssemblyAI, Gemini, Docker, Railway
 
-### Knak — AI Team Co-op
-Worked as a Software Developer on AI-powered product features and backend services.
+---
 
-Highlights included:
-- building and improving AI-assisted product workflows
-- working with Python services using LangChain and LangGraph
-- integrating production AI models and observability tooling
-- debugging distributed backend and tracing issues
-- contributing through GitHub-based review, QA, and deployment workflows
+### 🤖 Knak — AI Team Co-op
+Worked as a **Software Developer** on AI-powered product features and backend services.
 
-### Other Projects
+- Built and improved AI-assisted product workflows
+- Worked with Python services using LangChain and LangGraph
+- Integrated production AI models and observability tooling
+- Debugged backend, tracing, and reliability issues
+- Contributed through GitHub review, QA, and deployment workflows
 
-- **[Logistics Tracker & Alert System](https://github.com/maxphil058/logistics-tracker)**  
-  Shipment lifecycle tracking and automated alerts.  
-  **Tech:** Next.js, Spring Boot, MongoDB, Docker
+---
 
-- **[PitchPilot](https://github.com/maxphil058/pitch-pilot)**  
-  Funnel editor and automation platform with real-time preview and payment workflows.  
-  **Tech:** Next.js, Tailwind CSS, Stripe
+### 📦 Other Projects
 
-- **[AI-Powered Resume Generator](https://github.com/maxphil058/resume-ai)**  
-  Resume generation and optimization using AI-assisted workflows.  
-  **Tech:** React, Tailwind CSS, Spring Boot, OpenAI, Docker
+#### [Logistics Tracker & Alert System](https://github.com/maxphil058/logistics-tracker)
+Shipment lifecycle tracking and automated alerts.  
+**Tech:** Next.js, Spring Boot, MongoDB, Docker
+
+#### [PitchPilot](https://github.com/maxphil058/pitch-pilot)
+Funnel editor and automation platform with real-time preview and payment workflows.  
+**Tech:** Next.js, Tailwind CSS, Stripe
+
+#### [AI-Powered Resume Generator](https://github.com/maxphil058/resume-ai)
+Resume generation and optimization using AI-assisted workflows.  
+**Tech:** React, Tailwind CSS, Spring Boot, OpenAI, Docker
 
 ---
 
 ## 🔎 What I'm Focused On
 
-Right now I'm improving my skills in:
-
-- production-grade backend design
-- mobile architecture and native app workflows
+- Production-grade backend design
+- Mobile architecture and native app workflows
 - AI systems and agent workflows
-- queues, retries, failure recovery, and observability
-- cloud deployment and CI/CD
-- system design and debugging
+- Queues, retries, failure recovery, and observability
+- Cloud deployment and CI/CD
+- System design and debugging
 
 ---
 
 ## 📊 GitHub Stats
 
-<a href="http://www.github.com/maxphil058"><img src="https://github-readme-stats.vercel.app/api?username=maxphil058&show_icons=true&count_private=true&title_color=ffffff&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a>
-
-<a href="https://github.com/maxphil058"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxphil058&langs_count=10&title_color=ffffff&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" /></a>
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maxphil058&show_icons=true&hide_border=true&theme=github_dark" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxphil058&layout=compact&hide_border=true&theme=github_dark" />
+</p>
 
 ---
 
 ## 🤝 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/philmaxwell-mgbudem)
-- [GitHub](https://github.com/maxphil058)
+<p>
+  <a href="https://www.linkedin.com/in/philmaxwell-mgbudem">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="https://github.com/maxphil058">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
+  </a>
+</p>
